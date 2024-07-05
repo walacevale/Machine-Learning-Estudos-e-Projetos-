@@ -6,9 +6,9 @@ import cv2
 
 image_dir = 'train_all'
 mask_dir = 'mask_all'
-img_size=(1024, 1024)
 images = []
 masks = []
+img_size=(1024, 1024)
 
 image_files = sorted(glob.glob(os.path.join(image_dir, "*.tif")))
 mask_files = sorted(glob.glob(os.path.join(mask_dir, "*.tif")))
