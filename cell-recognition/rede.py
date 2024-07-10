@@ -1,6 +1,6 @@
 from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, Conv2DTranspose, concatenate
 from tensorflow.keras.models import Model
-from sklearn.model_selection import train_test_split
+
 
 def conv_block(inputs, filters):
     conv = Conv2D(filters, (3, 3), activation='relu', padding='same')(inputs)
