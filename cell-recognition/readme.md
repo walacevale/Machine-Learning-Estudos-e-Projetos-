@@ -16,7 +16,7 @@
 
 
 <p>
-Abaixo, um exemplo do resultado obtido:
+Abaixo, um exemplo do resultado obtido
 
 
 
