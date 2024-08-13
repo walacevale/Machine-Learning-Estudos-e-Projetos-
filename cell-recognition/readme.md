@@ -11,13 +11,16 @@
 
 
 <div  align="center">
-    <img  src= 'readme_img\ori_and_mask.png' width="400" alt="Descrição da imagem"> </img>
+    <img  src= 'Cell-Recognition\readme_img\ori_and_mask.png' width="500" alt="Descrição da imagem"> </img>
 </div>
 
 
 <p>
-Abaixo, um exemplo do resultado obtido
+Abaixo, um exemplo do resultado obtido:
 
+<div  align="center">
+    <img  src= 'Cell-Recognition\readme_img\exemplo_model.png' width="500" alt="Descrição da imagem"> </img>
+</div>
 
 
 </p>
