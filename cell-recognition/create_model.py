@@ -1,5 +1,7 @@
 from tools import *
 from rede import *
+from sklearn.model_selection import train_test_split
+
 
 path_img  = 'train_end'
 path_mask = 'mask_end'

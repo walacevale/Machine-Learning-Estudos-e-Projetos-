@@ -1,6 +1,6 @@
 <h1 align="center">🎯Reconhecimento de Imagens</h1>
 
-<h2> <font size=4.5> O projeto utiliza uma rede neural convolucional treinada para identificar células em imagens obtidas por um microscópio confocal. A iniciativa surgiu da necessidade de analisar imagens individuais de células que, na maioria das vezes, não estão isoladas. </h2>
+<h2> <font size=4.2> O projeto utiliza uma rede neural convolucional treinada para identificar células em imagens obtidas por um microscópio confocal. A iniciativa surgiu da necessidade de analisar imagens individuais de células que, na maioria das vezes, não estão isoladas. </h2>
 
 
 
@@ -15,9 +15,9 @@
 </div>
 
 
-Para garantir que a máscara e a imagem original tenham o mesmo nome e resolução, é essencial padronizá-las. Optamos pelo tamanho de 1024x1024, já que, em futuros trabalhos, as imagens geralmente serão obtidas nessas dimensões.
+<p>
+Abaixo, um exemplo do resultado obtido:
 
 
-<div  align="center">
-    <img  src= 'readme_img\code1.png' width="500" alt="Descrição da imagem"> </img>
-</div>
+
+</p>
