@@ -1,5 +1,5 @@
 from keras.models import load_model
-from tools import preprocess_image, resize_image, add_black_border, cortar_objetos, get_image_name
+from tools import preprocess_image, resize_image, cortar_objetos, get_image_name
 
 import glob
 import os
