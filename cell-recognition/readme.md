@@ -11,7 +11,7 @@
 
 
 <div  align="center">
-    <img  src= 'Cell-Recognition\readme_img\ori_and_mask.png' width="500" alt="Descrição da imagem"> </img>
+    <img  src= 'readme_img\ori_and_mask.png' width="500" alt="Descrição da imagem"> </img>
 </div>
 
 
@@ -19,7 +19,7 @@
 Abaixo, um exemplo do resultado obtido:
 
 <div  align="center">
-    <img  src= 'Cell-Recognition\readme_img\exemplo_model.png' width="500" alt="Descrição da imagem"> </img>
+    <img  src= 'readme_img\exemplo_model.png' width="500" alt="Descrição da imagem"> </img>
 </div>
 
 
